@@ -26,12 +26,12 @@ The research contribution is a **hybrid equity-aware prioritisation algorithm** 
 
 | | |
 |---|---|
-| [`mobile`](./mobile) | React Native + Expo — resident and worker apps |
-| [`dashboard`](./dashboard) | React + Vite + Tailwind — supervisor web app |
-| [`backend`](./backend) | Node.js + Express — REST API |
-| [`algorithm`](./algorithm) | Python + FastAPI — prioritisation microservice |
-| [`database`](./database) | PostgreSQL + PostGIS — schema and seed data |
-| [`docs`](./docs) | API reference and architecture |
+| [`mobile`](https://github.com/muni-prioritise/mobile) | React Native + Expo — resident and worker apps |
+| [`dashboard`](https://github.com/muni-prioritise/dashboard) | React + Vite + Tailwind — supervisor web app |
+| [`backend`](https://github.com/muni-prioritise/backend) | Node.js + Express — REST API |
+| [`algorithm`](https://github.com/muni-prioritise/algorithm) | Python + FastAPI — prioritisation microservice |
+| [`database`](https://github.com/muni-prioritise/database) | PostgreSQL + PostGIS — schema and seed data |
+| [`docs`](https://github.com/muni-prioritise/docs) | API reference and architecture |
 
 ## The Algorithm
 
